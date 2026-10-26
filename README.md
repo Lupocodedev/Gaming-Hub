@@ -1,5 +1,7 @@
-# Gaming-Hub
-a Gaming hub developed in py with ai 
-if at the esecutio he can be relevate like a malware don't use it
+#GamingHub
+Programmate nel 2024
+contiene 12 giochi tutti su terminale
+molto leggera
+e scorre fluidissima anche su pc patata
 
-and is only for Windows
+e se provate a scaricarla da linux o mac ods il vostro pc esplode
